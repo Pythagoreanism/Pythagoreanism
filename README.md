@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello world!
 
+- I'm currently working on practicing C++, using a C++ framework
+- I'm looking to practice Python as well as an infamous Python framework, Django
 <!--
 **Pythagoreanism/Pythagoreanism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
