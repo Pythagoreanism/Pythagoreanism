@@ -1,7 +1,7 @@
 ## Hello world!
 
-- I'm currently working on practicing C++, using a C++ framework
-- I'm looking to practice Python as well as an infamous Python framework, Django
+- Recently heavily involved in LaTeX documents for project reports.
+- Looking to get into C programming for embedded systems.
 <!--
 **Pythagoreanism/Pythagoreanism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
